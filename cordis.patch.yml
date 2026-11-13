@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-output-highlight
+      name: 'dsh-output-highlight'

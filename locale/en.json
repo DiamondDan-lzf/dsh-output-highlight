@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Output highlighting",
+    "description": "Colors emphasis, code, headings, and status words in assistant replies using theme tokens."
+  }
+}
